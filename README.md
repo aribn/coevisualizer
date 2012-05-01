@@ -1,0 +1,5 @@
+The Coevisualizer framework was built to help design, experiment with, and visualize coevolutionary simulations. A few of these were published as part of a paper for the [AAAI Fall Symposium 2005 in Washington D.C.: AAAI Technical Report FS-05-03 Coevolutionary and Coadaptive Systems](http://aribadernatal.com/docs/FS305BaderNatalA.pdf) ([slides](http://aribadernatal.com/docs/badernatal_2005aaai_fs_slides.pdf)). It was also used to simulate the effects of driving a coevolutionary process with the Teacher's Dilemma for my [dissertation](http://aribadernatal.com/dissertation/) (Brandeis University, 2008)
+
+In addition to the simulator itself, I've included a variety of coevolutionary algorithms, a variety of task domains (mostly "numbers game" variants), and a few representation choices for individuals in each domain. 
+
+More on this software is available at http://aribadernatal.com/scripts/Coevisualizer/
